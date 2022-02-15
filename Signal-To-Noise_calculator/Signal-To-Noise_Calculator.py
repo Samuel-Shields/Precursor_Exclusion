@@ -3,7 +3,7 @@
     #Samuel W. Shields
     #2022/02/15
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+#Hi Sam
 import numpy as np
 import matplotlib.pyplot as plt
 import os
