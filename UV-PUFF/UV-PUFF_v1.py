@@ -20,7 +20,7 @@ start_time = time.time()
 #%%
 #----------------------------------User defined variables----------------------------------#
 #output file name
-output_name = 'AA_BLE_PCs_PExUVPD_5E5agc_128msmax'
+output_name = 'name_your_output_file'
 
 #peak picking params
 height_cutoff = 1000 #height threshold (0 for full profile data)
